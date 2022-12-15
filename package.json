@@ -1,7 +1,6 @@
 {
   "name": "have-i-fed-the-cat-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -17,5 +16,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/James-Sample/have-i-fed-the-cat-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/James-Sample/have-i-fed-the-cat-app/issues"
+  },
+  "homepage": "https://github.com/James-Sample/have-i-fed-the-cat-app#readme",
+  "description": ""
 }
